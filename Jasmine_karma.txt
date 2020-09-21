@@ -1,0 +1,31 @@
+What is Jasmine?
+
+1.Jasmine is an open source testing framework for JavaScript.
+2.Jasmine is a BDD / Behavior Driven Development testing framework.
+
+	-> In BDD tests are written in non-technical lang that everyone can understand.	
+	-> BDD focuses more on testing the behaviour of the code instead of 					implememtation.
+
+	ex1. :user enter valid login id and password and login successful
+	ex2. : user enter two positive integers and addition will be return
+3.It does not require any other JS frameworks.
+4.Jasmine has easy to read syntax, making it easy to understand.
+5.Jasmine supports  asynchronous testing.
+6.Jasmine has test double functions called spies. A spy can stub any function and track all calls to it and its argument.
+
+
+
+
+What is Karma?
+
+1.Karma is a open source test runner for JavaScript created by AngularTeam.
+2. Karma can be easily integrated into your projects and makes it easy to execute test using CLI.
+3. Karma is useful for executing tests on browsers , other devices lik phones,t5.ablets.
+4. karma can be configured with diff testing frameworks like Jasmine, Mocha, Qunit.
+5. Karma cab be configured with Continous Integration/ Continous Deployment tools 
+	like Jenkins , Travis, Semaphore.
+
+
+
+
+
